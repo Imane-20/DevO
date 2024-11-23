@@ -1,3 +1,9 @@
+commit 86d33d1a0eb1cf3264472f4e5f3a95d6836d50cc
+Author: Imane-20 <imankahlaoui@gmail.com>
+Date:   Sat Nov 23 17:19:10 2024 +0100
+
+    Add git log output to log.txt
+
 commit 11159493062ebcc865a251d1fbe06a381d58f9a3
 Author: Imane-20 <imankahlaoui@gmail.com>
 Date:   Sat Nov 23 07:31:10 2024 +0100
